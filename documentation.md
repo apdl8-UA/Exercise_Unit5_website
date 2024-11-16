@@ -29,6 +29,13 @@ git tag -a v1.1 -m "tagging style commit" 1c9849c
 To create the taggs 
 git push origin --tags to push them.
 
+Creating gitignore:
+I create the file in visual studio and added the content.
+then:
+git add .gitignore
+git commit -m "Added .gitignore to exclude unnecessary files"
+git push origin main
+
 
 To configure Git, I had to type the following:
 git config user.name "apdl8-UA"  
