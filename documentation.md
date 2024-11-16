@@ -23,6 +23,12 @@ git merge home
  Resolve conflicts in vscode interface
  git commit and push
 
+Tagging:
+git tag -a v1.0 -m "tagging first commit" fa76b0b  
+git tag -a v1.1 -m "tagging style commit" 1c9849c  
+To create the taggs 
+git push origin --tags to push them.
+
 
 To configure Git, I had to type the following:
 git config user.name "apdl8-UA"  
