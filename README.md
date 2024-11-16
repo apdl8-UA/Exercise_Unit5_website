@@ -11,3 +11,4 @@ To view the web:
 
 Clone the repository to your local machine:
 git clone (url)
+and open the index.html file with your favourite browser.
